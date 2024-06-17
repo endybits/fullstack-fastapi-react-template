@@ -4,7 +4,9 @@
 A brief description of your project, its purpose, and its functionalities.
 
 
-## 📑 Table of Contents
+<details>
+  <summary>📑 Table of Contents</summary>
+
 - [Overview](#-overview)
 - [Tech Stack](#-tech-stack)
 - [Architecture](#-architecture)
@@ -18,6 +20,8 @@ A brief description of your project, its purpose, and its functionalities.
 - [Contributing](#-contributing)
 - [License](#-license)
 - [Contact](#-contact)
+
+</details>
 
 ## 🛠️ Tech Stack
 - **Frontend**: React
